@@ -1,0 +1,7 @@
+{
+  "name": "nasaExercise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
